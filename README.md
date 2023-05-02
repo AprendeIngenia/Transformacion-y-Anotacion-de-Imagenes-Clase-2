@@ -5,7 +5,7 @@ Hola, chicos en este repositorio encontrarán toda la clase 2 del curso de visi�
 - En este repositorio aprenderá y se expondrá a una amplia gama de temas interesantes como manipulación de imágenes y videos, mejora de imágenes, filtrado, detección de bordes, detección y seguimiento de objetos, detección de rostros y el módulo de aprendizaje profundo con OpenCV.
 - Para iniciar recomendamos ver algunos conceptos introductorios sobre la transformación y anotación de imágenes, por eso te dejamos la explicación en este [video.](https://youtu.be/CkGiiSoqtwk)
 
-![Miniatura](https://user-images.githubusercontent.com/85022752/218674415-65e51657-d50a-434e-a3c3-91758e68e5f4.jpg)
+![Miniatura YouTube curso SEO 3D morado (2)](https://user-images.githubusercontent.com/85022752/235784683-95ac79a5-4c04-4c4d-8e4f-1d68c991bbe6.jpg)
 
 ### Instalación del entorno:
 - Para iniciar con la programación debes de instalar Python y Pycharm, para esto te dejo los instaladores en este [link.](https://drive.google.com/drive/folders/1QY4yvfdcG3BObTwtHJSdWfW-vPyKMiNS?usp=share_link)
